@@ -1,0 +1,4 @@
+Flask==2.3.3
+playwright==1.39.0
+gunicorn==21.2.0
+asyncio-compatibility==0.21.0
